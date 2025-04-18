@@ -11,3 +11,4 @@
 Ожидаемое время: изучение и настройка — 10–14 часов, дизайн и наполнение — 4–8 часов.# shitsite
 
 https://www.w3schools.com/Html/
+https://timeweb.cloud/tutorials/css-html/kak-sozdat-skrolling-na-svoem-sajte-s-pomoshchyu-css 

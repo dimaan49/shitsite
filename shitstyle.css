@@ -1,34 +1,124 @@
 h1 {
 	text-align: center; 
-	font-size:30px;
+	font-size:40px;
+	font-style: bold;
+}
+h2 {
+	text-align: center; 
+	font-size:35px;
 	font-style: bold;
 }
 
-
 p {
-  border: 2px solid powderblue;
-  padding: 30px;
-  text-align:center;
+  font-size:20px; 
+  margin:30px;
+  padding: 3px;
+  text-align:left;
 }	
 
 li {
 	margin:10px;
-	font-size;20px;
-	text-align:right;
+	font-size:20px;
+	text-align:left;
 }
 
+nav {
+	background-color:#4363da;
+}
 
+br {
+	margin:5px;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d4e6f8;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
 .main-div {
 	padding-top:5px;
+	height:600px;
+	background-color: #7d95e8;
+	
+}
+.about-div-first {
+	display:flex;
+	padding-top:5px;
+	background-color: #7d95e8;
+	justify-content:space-around;
 	
 }
 
+.aim-task-div {
+	background-color:#98b5e8;
+	height:500px;
+	display:flex;
+	padding-top:5px;
+	justify-content:space-around;
+}
+
+.target-audience-div {
+	background-color:#7d95e8;
+	padding-top:5px;
+	height:500px;
+}
+
+.project-struture-div {
+	background-color:#98b5e8;
+	height:500px;
+	
+}
 .options-list {
 	width:100%;
 	box-sizing: border-box;
-	justify-content:end;
-	padding:30px;
+	justify-content:space-around;
 	display:flex;
 	border-right-style:solid;
+	border-left-style:solid;
+	
+}
+
+.members-list {
+	box-sizing: border-box;
+	justify-content:space-around;
+	display:flex;
+	font-size:25px;
+}
+
+.actual {
+
+}
+
+.problematica {
+
+	
+}
+
+.task {
+	
+	
+}
+
+.aim {
+	
+	
+}
+
+.TA-list {
+	box-sizing: border-box;
+	justify-content:end;
+	display:flex;
 	
 }
